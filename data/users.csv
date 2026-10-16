@@ -1,0 +1,4 @@
+user_id,username,role,email,has_history,password,plates,phone
+1,admin_boss,admin,"('(\'(\\\'(""(\\\\\\\'admin@parkflow.com\\\\\\\',)"",)\\\',)\',)',)",False,admin_boss,,
+3,mohamed,customer,"('(\'(\\\'(""(\\\\\\\'mohamed@gmail.com\\\\\\\',)"",)\\\',)\',)',)",False,111111,"111LLL,111LLK",
+2,emp_john,employee,"('(\'(\\\'(""(\\\\\\\'john@parkflow.com\\\\\\\',)"",)\\\',)\',)',)",False,emp_john,,
